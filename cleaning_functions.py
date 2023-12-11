@@ -33,3 +33,4 @@ def whole_pipeline(df):
     df = clean_column_names(df)
     df = clean_invalid_values(df)
     return df
+#Link to the presentation: "https://www.canva.com/design/DAF2PfCZYgM/YQhxkRakRzPh8vdpJD7Qjw/edit?utm_content=DAF2PfCZYgM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
